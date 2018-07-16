@@ -1,20 +1,15 @@
- <footer class="footer footer-type-1 bg-dark">
-        <div class="bottom-footer">
-          <div class="container">
-            <div class="row">
-
-              <div class="col-sm-12 copyright text-center">
-                <span>
-                  Copyright &copy; 2017.Company name All rights reserved.<a target="_blank" href="http://sc.chinaz.com/moban/">&#x7F51;&#x9875;&#x6A21;&#x677F;</a>
-                </span>
-              </div>
-               <nav>
+<div class="col-md-12">
+  <footer class="footer">
+    <small class="slogon">
+      <img class="brand-icon" src="https://dn-phphub.qbox.me/uploads/images/201612/12/1/iq7WQc2iuW.png?imageView2/1/w/34/h/34">
+      <a href="https://yousails.com/">
+        优帆远扬 | 创造不息，交付不止
+      </a>
+    </small>
+    <nav>
       <ul>
         <li><a href="{{ route('about') }}">关于</a></li>
       </ul>
     </nav>
-
-            </div>
-          </div>
-        </div>
-      </footer> <!-- end footer -->
+  </footer>
+</div>
