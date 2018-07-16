@@ -1,33 +1,4 @@
-
-
-<div class="widget-social">
-        <div class="social-icons text-center">
-          <a href="#">
-            <i class="fa fa-instagram"></i>
-            <span>instagram</span>
-          </a>
-          <a href="#">
-            <i class="fa fa-facebook"></i>
-            <span>facebook</span>
-          </a>
-          <a href="#">
-            <i class="fa fa-twitter"></i>
-            <span>twitter</span>
-          </a>
-          <a href="#">
-            <i class="fa fa-pinterest-p"></i>
-            <span>pinterest</span>
-          </a>
-          <a href="#">
-            <i class="fa fa-rss"></i>
-            <span>rss</span>
-          </a>
-        </div>
-      </div>
-
-
-      <!-- Footer Type-1 -->
-      <footer class="footer footer-type-1 bg-dark">
+ <footer class="footer footer-type-1 bg-dark">
         <div class="bottom-footer">
           <div class="container">
             <div class="row">
